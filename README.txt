@@ -1,2 +1,3 @@
-Krzysztof ¯abicki
+Krzysztof ï¿½abicki
 ZMIANA
+Branch z zadania nie spushowala sie na serwer
